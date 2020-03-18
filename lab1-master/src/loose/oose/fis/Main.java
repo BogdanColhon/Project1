@@ -34,7 +34,7 @@ public class Main {
         pc1.adaugaProcesor(c1);
         pc1.adaugaProcesor(c2);
 
-        ProcesorCompus pc2 = new ProcesorCompus();
+        ProcesorCompus pc255 = new ProcesorCompus();
         pc2.adaugaProcesor(pc1);
         pc2.adaugaProcesor(c3);
 
